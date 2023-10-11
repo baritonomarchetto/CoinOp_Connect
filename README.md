@@ -26,8 +26,13 @@ In this instructables I will introduce you to the PC to dedicated cabinet conver
 Ok,ok, but which hardwares are now supported?
 
 Supported hardwares/games are:
+
 SEGA Outrun Hardware (Outrun, Turbo Outrun)
+
 SEGA Super Hang-On (Hang-On, Super Hang-On)
+
 SEGA X-Board (theoretically any game)
+
 Atari System 2 (Paperboy, ABP: All Points Bulletin, Super Sprint, Championship Sprint, 720°)
+
 Pole Position (Atari and Namco hardware)
