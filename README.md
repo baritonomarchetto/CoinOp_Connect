@@ -1,5 +1,21 @@
 # CoinOp Connect
-a PC to run an indefinite number of games.
+Imagine that your beloved, genuine arcade cabinet PCB has gone (spells allowed now!). You have three options in front of you: (a) keep it as it is for the time being, (b) wait months (years?) for a repair (c) convert it to JAMMA and use one of those commercial interfaces.
+
+Given that (a) is not a real option and (c) is deprecable (NOT ALLOWED!) only (b) is left. What if you don't want to wait for too long without playing your favourite game on your favourite cab?
+
+Well, I think this Instructable is for you :)
+
+The JAMMA standard is with no doubt the most common in the arcade world and it is not surprising that commercial control interfaces intended to connect cabinets to a PC are all designed to support that specific standard. It was heavily used in generic cabinets, and sometimes in dedicated cabs too.
+
+Unfortunately, biggest arcade cabinet manufacturers like SEGA, Nintendo, Atari and so on did not adopt JAMMA and the fate of such non-JAMMA cabinets is often a "brutal" reconversion: emptied and rewired from scratch.
+
+Definitely a deprecable, not respectful practice, if you ask me.
+
+I am firmly convinced that we, tinkerers with a soft spot for the arcade world and free from business constrains should worry about remedying this situation. And, yes, we already are late to the party.
+
+This is my small contribution to the challenge: a flexible interface for arcade cabinets which, in my intentions, will make easy the conversion of cabinets with non-JAMMA wiring.
+
+For those who read the intro only, let me stress out a very importamt point: I am not suggesting you to replace your cab original game board and replace it with a PC to run an indefinite number of games.
 
 Don't get me wrong!
 
