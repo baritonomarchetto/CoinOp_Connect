@@ -27,12 +27,12 @@ Ok,ok, but which hardwares are now supported?
 
 Supported hardwares/games are:
 
-SEGA Outrun Hardware (Outrun, Turbo Outrun)
+- SEGA Outrun Hardware (Outrun, Turbo Outrun)
 
-SEGA Super Hang-On (Hang-On, Super Hang-On)
+- SEGA Super Hang-On (Hang-On, Super Hang-On)
 
-SEGA X-Board (theoretically any game)
+- SEGA X-Board (theoretically any game)
 
-Atari System 2 (Paperboy, ABP: All Points Bulletin, Super Sprint, Championship Sprint, 720°)
+- Atari System 2 (Paperboy, ABP: All Points Bulletin, Super Sprint, Championship Sprint, 720°)
 
-Pole Position (Atari and Namco hardware)
+- Pole Position (Atari and Namco hardware)
