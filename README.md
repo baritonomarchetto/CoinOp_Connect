@@ -1,5 +1,5 @@
 # CoinOp Connect
-Imagine that your beloved, genuine arcade cabinet PCB has gone (spells allowed now!). You have three options in front of you: (a) keep it as it is for the time being, (b) wait months (years?) for a repair (c) convert it to JAMMA and use one of those commercial interfaces.
+Imagine that your beloved genuine arcade cabinet PCB has gone (spells allowed here!). You have three options in front of you: (a) keep it as it is for the time being, (b) wait months (years?) for a repair (c) convert it to JAMMA and use one of those commercial interfaces.
 
 Given that (a) is not a real option and (c) is deprecable (NOT ALLOWED!) only (b) is left. What if you don't want to wait for too long without playing your favourite game on your favourite cab?
 
