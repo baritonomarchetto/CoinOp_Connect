@@ -7,7 +7,7 @@ Well, I think this Instructable is for you :)
 
 The JAMMA standard is with no doubt the most common in the arcade world and it is not surprising that commercial control interfaces intended to connect cabinets to a PC are all designed to support that specific standard. It was heavily used in generic cabinets, and sometimes in dedicated cabs too.
 
-Unfortunately, biggest arcade cabinet manufacturers like SEGA, Nintendo, Atari and so on did not adopt JAMMA and the fate of such non-JAMMA cabinets is often a "brutal" reconversion: emptied and rewired from scratch.
+Unfortunately, biggest arcade cabinet manufacturers like SEGA, Nintendo, Atari and others did not adopt JAMMA and the fate of such non-JAMMA cabinets is often a "brutal" reconversion: emptied and rewired from scratch.
 
 Definitely a deprecable, not respectful practice, if you ask me.
 
