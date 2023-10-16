@@ -13,7 +13,7 @@ Definitely a deprecable, not respectful practice, if you ask me.
 
 I am firmly convinced that we, tinkerers with a soft spot for the arcade world and free from business constrains should worry about remedying this situation. And, yes, we already are late to the party.
 
-This is my small contribution to the challenge: a flexible interface for arcade cabinets which, in my intentions, will make easy the conversion of cabinets with non-JAMMA wiring.
+This is my small contribution to the challenge: a flexible interface for arcade cabinets to, in my intentions, simplify the conversion of cabinets with non-JAMMA wiring and, at the same time, keep everithing original.
 
 For those who read the intro only, let me stress out a very importamt point: I am not suggesting you to replace your cab original game board and replace it with a PC to run an indefinite number of games.
 
