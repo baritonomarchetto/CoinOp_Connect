@@ -3,7 +3,7 @@ Imagine that your beloved genuine arcade cabinet PCB has gone (spells allowed he
 
 Given that (a) is not a real option and (c) is deprecable (NOT ALLOWED!) only (b) is left. What if you don't want to wait for too long without playing your favourite game on your favourite cab?
 
-Well, I think this Instructable is for you :)
+Well, I think this project could be of your interest :)
 
 The JAMMA standard is with no doubt the most common in the arcade world and it is not surprising that commercial control interfaces intended to connect cabinets to a PC are all designed to support that specific standard. It was heavily used in generic cabinets, and sometimes in dedicated cabs too.
 
