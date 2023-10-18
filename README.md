@@ -31,7 +31,7 @@ Supported hardwares/games are:
 
 - Pole Position (Atari and Namco hardware)
 
-Many thanks to those nice girls and guys at JLCPCB for sponsoring the manufacturing of this project's FR-4 PCBs.
+Many thanks to those nice girls and guys at JLCPCB for sponsoring the manufacturing of this project's FR-4 PCBs. Without their material contribution I would probably never have developed the project.
 
 JLCPCB is a high-tech manufacturer specialized in the production of high-reliable and cost-effective PCBs. They offer a flexible PCB assembly service with a huge library of more than 350.000 components in stock (included the MCP4728 needed for this project).
 
