@@ -26,7 +26,7 @@ const int delayTime = 20;
 const int noLoss = 8;
 
 Joystick_ Joystick(JOYSTICK_DEFAULT_REPORT_ID, 
-  JOYSTICK_TYPE_MULTI_AXIS, SWITCHES, 0, //joy type, button count, hatswitch count
+  JOYSTICK_TYPE_GAMEPAD, SWITCHES, 0, //joy type, button count, hatswitch count
   true, false, false, // X, Y, Z axis
   false, false, false, // X, Y, Z rotation
   false, false, //rudder, throttle
